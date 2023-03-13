@@ -1,0 +1,9 @@
+BackgroundBlack = #181A20
+DarkGrey = #24252B
+LightGrey = #424349
+Orange = #FF7043
+LightBlue = 72FEED
+MediumBlue = 6693EB
+Violet = 8766EB
+Green = 4AC067
+Yellow = ECFE72
