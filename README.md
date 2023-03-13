@@ -1,6 +1,6 @@
 # Technnect_Assignment
 
-## Please find an apk file for the app in the root dir
+## Please find an apk file for the app in the root dir [ technnect.apk ]
 
 ## The Project has following key features:
 1. App with 2 main screens ( Home.js, bankDets.js ) made by reffering the following [app design](https://www.behance.net/gallery/164103151/DohaPay-Mobile-App-Design?tracking_source=search_projects%7Cbank+app+ui+design)
